@@ -1,4 +1,4 @@
-# HomePage [JRaunak.github.io](JRaunak.github.io)<br>
+# HomePage [JRaunak.github.io](https://JRaunak.github.io)<br>
 ## To visit my GitHub profile, click [here](https://github.com/JRaunak)
 ### Visit my other repos/contributions on
 - [Python](https://github.com/JRaunak/Python)
